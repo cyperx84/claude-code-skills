@@ -99,7 +99,7 @@ Automatically detect which mode to use based on user intent:
 
 **When**: Complex decisions, strategic problems, life choices, major business decisions
 
-**Process** (Modernized from GEMINI.md):
+**Process**:
 
 ### Step 1: Problem Diagnosis
 - Thoroughly analyze user's problem
