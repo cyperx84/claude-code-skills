@@ -24,3 +24,23 @@ WorkSpace/*/
 
 # Logs
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# GitHub specific
+.github/workflows/*.log
