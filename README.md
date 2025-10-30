@@ -33,7 +33,7 @@ Apply Charlie Munger's "latticework of mental models" to any problem using 98 co
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/claude-code-skills.git
+git clone https://github.com/cyperx84/claude-code-skills.git
 cd claude-code-skills
 ```
 
@@ -180,8 +180,8 @@ MIT License - see [LICENSE](./LICENSE) for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/claude-code-skills/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/claude-code-skills/discussions)
+- **Issues**: [GitHub Issues](https://github.com/cyperx84/claude-code-skills/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/cyperx84/claude-code-skills/discussions)
 - **Documentation**: [docs/](./docs/)
 
 ## Acknowledgments
